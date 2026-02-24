@@ -45,6 +45,8 @@ All experiments in the paper were performed with:
 
 All result data is available in the LibreOffice sheet located in the **'results'** folder. This file contains detailed instructions on how to generate each table and plot from the paper.
 
+LibreOffice Version: 25.8.4.2
+
 ---
 
 ## License
